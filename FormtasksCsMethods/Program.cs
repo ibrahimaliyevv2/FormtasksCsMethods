@@ -141,9 +141,5 @@ namespace FormtasksCsMethods
             return count;
         }
 
-        //Form-Task7: Verilmis n ededinin son reqemini onun evveline getirerek yeni bir eded duzeldin
-        //(misalcun daxil edilen eded 475 olarsa, geriye 547 qaytarsin).
-
-      
     }
 }
