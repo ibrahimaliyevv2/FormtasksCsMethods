@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\bin\Debug\netcoreapp3.1\FormtasksCsMethods.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\bin\Debug\netcoreapp3.1\FormtasksCsMethods.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\bin\Debug\netcoreapp3.1\FormtasksCsMethods.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\bin\Debug\netcoreapp3.1\FormtasksCsMethods.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\bin\Debug\netcoreapp3.1\FormtasksCsMethods.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\bin\Debug\netcoreapp3.1\FormtasksCsMethods.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsMethods\FormtasksCsMethods\obj\Debug\netcoreapp3.1\FormtasksCsMethods.genruntimeconfig.cache
