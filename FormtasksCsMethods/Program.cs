@@ -6,6 +6,7 @@ namespace FormtasksCsMethods
     {
         static void Main(string[] args)
         {
+            #region Task Additions
 
             #region Form-Task1 Addition
             //int result = CountOfChar("Fazail", 'a');
@@ -37,9 +38,27 @@ namespace FormtasksCsMethods
             //Console.WriteLine(CountVowel("bizimlesiniz"));
             #endregion
 
-          
+            #region Form-Task7 Addition
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //int num3 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine(MaximumOf3(num1, num2, num3));
+            #endregion
+
+            #region Form-Task8 Addition
+            //int price1 = Convert.ToInt32(Console.ReadLine());
+            //int price2 = Convert.ToInt32(Console.ReadLine());
+            //int price3 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine(PriceOfProducts(price1, price2, price3));
+            #endregion
+
+            #endregion
+
         }
 
+        #region Methods
         //Form-Task1: Gonderilen char-in bir sozde nece defe istifade olundugunu yazin
         static int CountOfChar(string text, char ch)
         {
@@ -140,6 +159,47 @@ namespace FormtasksCsMethods
             }
             return count;
         }
+        
+        //Form-Task7: Gonderilmis 3 ededden en boyuyunu tapan metod
+        static int MaximumOf3(int num1, int num2, int num3)
+        {
+            if(num1>num2 && num1 > num3)
+            {
+                return num1;
+            }
 
+            else if(num2 > num1 && num2 > num3)
+            {
+                return num2;
+            }
+
+            else
+            {
+                return num3;
+            }
+        }
+        
+        //Form-Task8: Supermarketde bele bir aksiya kecirilir: "Istenilen iki mal alana ucuncu pulsuz verilir."
+        //"Ancaq secilmis 3 maldan iki en bahalisinin qiymeti odenilir."
+        //Alinacaq uc mehsulun qiymeti verilmisdirse odenilecek meblegi hesablayan metod yazin.
+
+        static int PriceOfProducts(int price1, int price2, int price3)
+        {
+            if(price1<price2 && price1 < price3)
+            {
+                return price2 + price3;
+            }
+
+            else if(price2<price1 && price2 < price3)
+            {
+                return price1 + price3;
+            }
+
+            else
+            {
+                return price1 + price2;
+            }
+        }
+        #endregion
     }
 }
